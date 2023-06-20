@@ -1,7 +1,7 @@
 # Computer_Vision
 Exercises of Computer Vision. University Course
 
-For this exercises we will use a DNN (Neural Network) for object-detection. 
+For one of this exercises we will use a DNN (Neural Network) for object-detection. 
 YOLO v3 --> To execute the exercise '8_dnn.ipynb' you need to download the file with the weights of the already trained network (247 MB) from this address:
 https://pjreddie.com/media/files/yolov3.weights.
 
